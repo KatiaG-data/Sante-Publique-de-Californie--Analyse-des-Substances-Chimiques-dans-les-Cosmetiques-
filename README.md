@@ -21,5 +21,5 @@ En outre, cette analyse peut contribuer à **la recherche scientifique** en four
 <h2> Outils utilisés</h2>
 
 - **Power BI** pour la création de visualisations interactives.
-- **Excel** pour le nettoyage et la préparation des données.
+- **Excel & Power Query** pour le nettoyage et la préparation des données.
 
