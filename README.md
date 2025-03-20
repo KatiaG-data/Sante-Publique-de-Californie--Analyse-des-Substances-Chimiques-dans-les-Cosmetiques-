@@ -16,3 +16,10 @@ En outre, cette analyse peut contribuer à **la recherche scientifique** en four
 - Les données proviennent de la plateforme de données publique de l'état américain de Californie : [Chemicals in Cosmetics](https://catalog.data.gov/dataset/chemicals-in-cosmetics-d55bf)
 - [Chemicals_in_Makeup_Cleaned.xlsx](https://github.com/KatiaG-data/Chemicals_in_makeup-Project/blob/main/Chemicals_in_Makeup_Cleaned.xlsx) :  Version nettoyée et préparée des données pour l'analyse.
 - [Dashboard Chemicals in Makeup.pbix](https://github.com/KatiaG-data/Chemicals_in_makeup-Project/tree/main#:~:text=Dashboard%20Chemicals%20in%20Makeup.pbix) : Rapport interactif Power BI avec visualisations et analyses.
+
+
+<h2> Outils utilisés</h2>
+
+- **Power BI** pour la création de visualisations interactives.
+- **Excel** pour le nettoyage et la préparation des données.
+
