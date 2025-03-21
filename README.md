@@ -27,7 +27,5 @@ En outre, cette analyse peut contribuer à **la recherche scientifique** en four
 <h2> Conclusion</h2>
 
 Le marché est dominé par un petit nombre de grandes marques telles que Sephora, NYX et Revlon, représentant une part significative des produits analysés dans la base.
-
 Toutefois des substances chimiques controversées comme le Titanium Dioxide ou les parabens restent couramment utilisées, ce qui souligne l'importance de la régulation et la transparence des formulations. 
 
-Une tendance à la reformulation des produits est observable, traduisant une volonté des entreprises d’adapter leurs pratiques aux attentes sanitaires, éthiques et environnementales actuelles.
