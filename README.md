@@ -29,5 +29,5 @@ Elle peut aussi contribuer à **la recherche scientifique** en fournissant des d
 Le marché est dominé par un petit nombre de grandes marques telles que Sephora, NYX et Revlon, représentant une grande part des produits analysés dans le fichier.
 Toutefois, malgré une demande croissante pour des cosmétiques plus sûrs et éthiques, des substances chimiques controversées comme le Titanium Dioxide, les parabens ou encore certains silicones restent couramment utilisées dans les formulations.    
 
-Ces composants, bien que légaux, sont régulièrement pointés du doigt pour leurs effets potentiels sur la santé et l’environnement. Cette situation souligne l'importance d'une régulation plus stricte, d'une meilleure transparence des ingrédients, ainsi que d'une sensibilisation accrue des consommateurs quant aux compositions des produits qu’ils utilisent au quotidien.
+Ces composants, bien que légaux, sont régulièrement pointés du doigt pour leurs effets potentiels sur la santé et l’environnement. Cette situation souligne les enjeux d'une régulation plus stricte, d'une meilleure transparence des ingrédients, ainsi que d'une sensibilisation des consommateurs quant aux compositions des produits qu’ils utilisent au quotidien.
 
