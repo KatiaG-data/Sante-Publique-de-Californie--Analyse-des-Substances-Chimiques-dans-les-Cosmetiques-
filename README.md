@@ -6,9 +6,9 @@ Ces données reflètent les informations transmises au **California Safe Cosmeti
 
 Ce programme vise à responsabiliser les consommateurs, chercheurs et militants en leur offrant les outils nécessaires pour identifier les produits à risque et inciter les entreprises à rendre leurs formulations plus sûres.
 
-Cette analyse revêt une importance majeure pour plusieurs raisons. Elle favorise **la transparence** en mettant en lumière les risques cachés associés à l’utilisation quotidienne des cosmétiques, permettant ainsi aux consommateurs de faire des choix plus éclairés.
+Cette analyse favorise **la transparence** en mettant en lumière les risques cachés associés à l’utilisation quotidienne des cosmétiques, permettant ainsi aux consommateurs de faire des choix plus éclairés.
 
-Cette étude peut aussi contribuer à **la recherche scientifique** en fournissant des données essentielles sur l’impact de l’exposition aux substances chimiques, en particulier pour les populations vulnérables, ce qui permet d’orienter les études, le développement des produits et les politiques publiques vers **une meilleure protection de la santé**.
+Elle peut aussi contribuer à **la recherche scientifique** en fournissant des données essentielles sur l’impact de l’exposition aux substances chimiques, en particulier pour les populations vulnérables, ce qui permet d’orienter les études, le développement des produits et les politiques publiques vers **une meilleure protection de la santé**.
 
 
 <h2> Contenu du projet</h2>
