@@ -26,6 +26,6 @@ Elle peut aussi contribuer à **la recherche scientifique** en fournissant des d
 
 <h2> Conclusion</h2>
 
-Le marché est dominé par un petit nombre de grandes marques telles que Sephora, NYX et Revlon, représentant une part significative des produits analysés dans la base.
+Le marché est dominé par un petit nombre de grandes marques telles que Sephora, NYX et Revlon, représentant une grande part des produits analysés dans le fichier.
 Toutefois des substances chimiques controversées comme le Titanium Dioxide ou les parabens restent couramment utilisées, ce qui souligne l'importance de la régulation et la transparence des formulations. 
 
